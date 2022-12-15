@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Tomáš Kocí
 - 👀 I’m interested in both programming and learning new stuff.
+- I'm currerntly studying at FIT VUT. 
 - 📫 How to reach me Koci.Tomas03@gmail.com
 
 <!---
